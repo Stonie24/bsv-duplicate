@@ -77,7 +77,3 @@ class TestDetectDuplicates:
 
         with pytest.raises(ValueError):
             detect_duplicates("mocked input")
-
-
-
-
